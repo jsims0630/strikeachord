@@ -1,4 +1,5 @@
 CMP 130: STRIKE A CHORD WEBSITE BUILD
+
 Proposed Website for Strike a Chord
 
 Presented by: Jack Sims
