@@ -130,8 +130,8 @@ label {
 }
 
 #submit {
-    margin-top: zero;
-    margin-bottom: zero;
+    margin-top: 0;
+    margin-bottom: 0;
     margin-left: auto;
     margin-right: auto;
     display: block;
